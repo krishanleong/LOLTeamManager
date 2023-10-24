@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+ } 
+
+.roleheader {
+    border-radius: 20px;
+    margin: 5px;
+    width:200px;
+    padding: 5px 20px;
+    border: 3px black solid;
+    justify-content: space-evenly;
+}
+
+/* .roleheader {
+    flex-direction: row;;
+} */
+
